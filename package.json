@@ -1,0 +1,25 @@
+{
+  "name": "afexceptionmailer",
+  "version": "1.0.0",
+  "description": "Azure function app to read queue messages about exceptions and send them via email by timer trigger",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeGrin/AfExceptionMailer.git"
+  },
+  "keywords": [
+    "azure",
+    "functions",
+    "queue",
+    "mailer"
+  ],
+  "author": "LeGrin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeGrin/AfExceptionMailer/issues"
+  },
+  "homepage": "https://github.com/LeGrin/AfExceptionMailer#readme"
+}
